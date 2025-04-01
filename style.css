@@ -103,3 +103,50 @@ footer {
     text-align: center;
     padding: 2rem 0;
 }
+
+.signup-body
+{
+    background-image: url("pexels-sagui-andrea-200115-618833.jpg");
+}
+.login-body
+{
+    background-image: url("pexels-jess-vide-4319752.jpg");
+}
+.signup-form{
+    background-color: #c1e8f7;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px darkblue;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.button-form
+{
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.login-form
+{
+    background-color: #c1e8f7;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px darkblue;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.tourapply-body
+{
+ background-image: url("pexels-lloyd-freeman-599375-1381792.jpg");
+}
